@@ -3,5 +3,5 @@ layout: default
 title: Resume
 ---
 
-# Resume
+![](RevisedResume.png)
 
